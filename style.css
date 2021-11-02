@@ -1,0 +1,36 @@
+body{
+    background: rgb(202, 129, 202);
+    font: normal 20pt Calibri;
+}
+
+header{
+    color: rgb(93, 89, 89);
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px gray;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-size: italic;
+}
+
+.button{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    color: purple;
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
